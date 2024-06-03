@@ -1,0 +1,6 @@
+com\firstProject\fullstackbackend\exception\UserNotFoundAdvice.class
+com\firstProject\fullstackbackend\repository\UserRepository.class
+com\firstProject\fullstackbackend\controller\Controller.class
+com\firstProject\fullstackbackend\exception\UserNotFoundException.class
+com\firstProject\fullstackbackend\FullstackBackendApplication.class
+com\firstProject\fullstackbackend\model\User.class
