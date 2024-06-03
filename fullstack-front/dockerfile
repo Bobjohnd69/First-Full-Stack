@@ -1,0 +1,11 @@
+From node:21-alpine
+ 
+ WORKDIR /full-stack-front
+
+COPY public/ /full-stack-front/public
+COPY src/ /full-stack-front/src
+COPY package.json /full-stack-front/
+
+RUN npm install
+
+CMD ["npm", "start"]
